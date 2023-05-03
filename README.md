@@ -11,7 +11,7 @@
 ## Technologies Used
 
 - Kotlin programming language
-- HTML parser library
+- HTML Parser 
 
 ## Demo
 
