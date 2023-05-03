@@ -13,4 +13,6 @@ read_news_app is a mobile application that allows you to view and read the news 
 - Kotlin programming language
 - HTML parser library
 
+## Demo
+
 <img src="https://user-images.githubusercontent.com/116732291/235925335-73267406-c976-42d9-9ee3-807639793040.gif" alt="Demo" width="400" height="800">
