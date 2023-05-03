@@ -12,6 +12,7 @@
 
 - Kotlin programming language
 - HTML Parser 
+- Android Studio
 
 ## Demo
 
