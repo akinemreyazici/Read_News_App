@@ -16,4 +16,9 @@
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/116732291/235925335-73267406-c976-42d9-9ee3-807639793040.gif" alt="Demo" width="400" height="800">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116732291/235925335-73267406-c976-42d9-9ee3-807639793040.gif" alt="Read News App Demo" width="400" style="display: block; margin: auto;">
+</p>
+
+
