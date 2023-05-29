@@ -1,4 +1,4 @@
-# read_news_app
+# Read News Application
 
    This is a mobile application that allows you to view and read the news articles from the Turkish news website, haberler.com, as a mobile app. The app fetches the website's web page using an HTML parser and presents the news articles to the users as a list. In addition, when the user clicks on any news article, it opens the corresponding web page using WebView.
 
